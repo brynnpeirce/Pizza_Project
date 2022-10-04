@@ -6,3 +6,10 @@
 <li>Customize size</li>
 <li>Get a price quote</li>
 </ul>
+<br>
+<p>Created with:
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+</ul>
